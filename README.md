@@ -1,0 +1,1 @@
+# null-kontroll-til-versjonskontroll
